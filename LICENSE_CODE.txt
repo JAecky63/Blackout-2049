@@ -1,0 +1,15 @@
+PolyForm Noncommercial License 1.0.0
+
+Offizieller Lizenztext und Bedingungen:
+https://polyformproject.org/licenses/noncommercial/1.0.0
+
+Die Nutzungsrechte am funktionalen Programmcode von BLACKOUT 2049 werden,
+soweit entsprechende Rechte bestehen, nach diesen Bedingungen eingeräumt.
+
+Required Notice: BLACKOUT 2049 – erstellt von Jutta Aeckersberg mit ChatGPT.
+
+Bei der Weitergabe des Programmcodes sind der Lizenztext oder seine obige URL
+und die mit „Required Notice:“ beginnende Herkunftsangabe beizubehalten.
+
+Die kreative Spielgestaltung ist gesondert unter CC BY-NC-SA 4.0 lizenziert;
+siehe LICENSE.md.
